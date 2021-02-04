@@ -1,0 +1,8 @@
+.error{
+    border-radius: 20px;
+    background: red;
+    color: white;
+    width: 300px;
+    text-align: center;
+    align-items: center;
+}
